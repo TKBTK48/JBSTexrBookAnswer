@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Answer18_Collection</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PTra18_01.cs" />
+    <Compile Remove="PTra18_02.cs" />
+    <Compile Remove="PTra18_03.cs" />
+    <Compile Remove="PTra18_04.cs" />
+    <Compile Remove="PTra18_05.cs" />
+  </ItemGroup>
+
+</Project>

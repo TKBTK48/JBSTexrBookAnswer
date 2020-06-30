@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Question16-Exception</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PTra16_01.cs" />
+    <Compile Remove="PTra16_02.cs" />
+    <Compile Remove="PTra16_03.cs" />
+    <Compile Remove="PTra16_04.cs" />
+  </ItemGroup>
+
+</Project>
