@@ -1,0 +1,12 @@
+C:\Git\TDD\refactoring\bin\Debug\netcoreapp2.1\refactoring.deps.json
+C:\Git\TDD\refactoring\bin\Debug\netcoreapp2.1\refactoring.runtimeconfig.json
+C:\Git\TDD\refactoring\bin\Debug\netcoreapp2.1\refactoring.runtimeconfig.dev.json
+C:\Git\TDD\refactoring\bin\Debug\netcoreapp2.1\refactoring.dll
+C:\Git\TDD\refactoring\bin\Debug\netcoreapp2.1\refactoring.pdb
+C:\Git\TDD\refactoring\obj\Debug\netcoreapp2.1\refactoring.csprojAssemblyReference.cache
+C:\Git\TDD\refactoring\obj\Debug\netcoreapp2.1\refactoring.AssemblyInfoInputs.cache
+C:\Git\TDD\refactoring\obj\Debug\netcoreapp2.1\refactoring.AssemblyInfo.cs
+C:\Git\TDD\refactoring\obj\Debug\netcoreapp2.1\refactoring.csproj.CoreCompileInputs.cache
+C:\Git\TDD\refactoring\obj\Debug\netcoreapp2.1\refactoring.dll
+C:\Git\TDD\refactoring\obj\Debug\netcoreapp2.1\refactoring.pdb
+C:\Git\TDD\refactoring\obj\Debug\netcoreapp2.1\refactoring.genruntimeconfig.cache
